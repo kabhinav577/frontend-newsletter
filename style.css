@@ -37,7 +37,7 @@ body {
 
 .right {
   background-image: url('assets/images/illustration-sign-up-desktop.svg');
-  background-repeat: cover;
+  background-repeat: no-repeat;
   background-position-x: right;
   width: 50%;
   height: 593px;
